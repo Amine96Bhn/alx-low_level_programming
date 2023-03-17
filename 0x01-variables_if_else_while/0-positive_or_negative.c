@@ -27,5 +27,3 @@ int main(void)
 
 	return (0);
 }
-betty 0-positive_or_negative.c
-chmod u+x 0-positive_or_negative.c
